@@ -1,0 +1,6 @@
+# Ignore Python bytecode cache files
+__pycache__/
+
+# Ignore specific files
+all_articles.csv
+sales.csv
