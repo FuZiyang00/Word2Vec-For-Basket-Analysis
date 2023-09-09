@@ -4,3 +4,5 @@ __pycache__/
 # Ignore specific files
 all_articles.csv
 sales.csv
+transactions.csv
+Model.mod
