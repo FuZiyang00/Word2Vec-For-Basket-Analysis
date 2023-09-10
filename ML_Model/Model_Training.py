@@ -23,7 +23,7 @@ class TrainingTracker(CallbackAny2Vec):
 class Training:
      @staticmethod
      def create_model(sentences):
-        total_epochs = 10
+        total_epochs = 5
         model_loss = []
         tracker = TrainingTracker(model_loss, total_epochs)
         model = Word2Vec(
@@ -40,4 +40,3 @@ class Training:
             callbacks=[tracker]
         )
         return model
-

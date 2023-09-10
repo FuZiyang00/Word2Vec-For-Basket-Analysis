@@ -1,4 +1,4 @@
-from Word2Vec import Training
+from ML_Model.Model_Training import Training
 from Data_cleaning_preprocessing import DataCleaning, Preprocessing
 import time
 import pandas as pd
