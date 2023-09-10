@@ -12,6 +12,7 @@ By leveraging on this similarity we decided to give Word2Vec a try
 
 # Results 
 | Query | Complement | Co-purchases |
+| -------- | -------- | -------- |
 | carrots | bananas | 4063 |
 | carrots | lemons | 1873 |
 | carrots | onions | 1467 |
