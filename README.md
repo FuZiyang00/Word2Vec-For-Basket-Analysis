@@ -8,7 +8,7 @@ Word2Vec" is a well-known and widely used technique in natural language processi
 The key idea behind Word2Vec is that words with similar meanings tend to occur in similar contexts.
 
 We can notice a pretty close similarity between a sentece (text) and a grocery receipt: the words that make up a sentence give to it a meaning, whereas the products that compose a receipt determine its consume context.
-By leveraging on this similarity we decided to give Word2Vec a try
+By leveraging on this similarity we decided to give Word2Vec a try.
 
 # Results 
 | Query | Complement | Co-purchases |
