@@ -1,9 +1,9 @@
 # Ignore Python bytecode cache files
 __pycache__/
 
-# Ignore specific files
-all_articles.csv
-sales.csv
-transactions.csv
-Model.mod
-suggestions.csv
+
+# Ignore csv files
+*.csv
+
+# virtual environment
+/env/
