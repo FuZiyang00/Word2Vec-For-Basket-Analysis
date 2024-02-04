@@ -1,4 +1,4 @@
-![Alt text](https://github.com/FuZiyang00/Word2Vec-For-Basket-Analysis/main/copertina_word2vec.jpeg)
+![Alt text](https://github.com/FuZiyang00/Word2Vec-For-Basket-Analysis/blob/main/copertina_word2vec.jpeg)
 
 # Word2Vec For Basket Analysis
 The goal of this project is to test the efficacy of adopting a statistical NLP technique such as Word2vec for Basket Analysis. 
